@@ -38,7 +38,7 @@ void prac1()
     printf("сумма %d\n", num + mun);
     printf("разность %d\n", num - mun);
     printf("произведение %d\n", num * mun);
-    printf("частное %d\n", mun / num);
+    printf("частное %f\n", 1.0 * mun/num);
     printf("остаток от деления %d\n", mun % num);
 }
 void prac2()
